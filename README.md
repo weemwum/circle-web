@@ -1,2 +1,2 @@
 # circle-web
-the source for competitivechat website
+the source for the competitivechat website
